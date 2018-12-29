@@ -28,7 +28,7 @@ weight = 5
 #   year = 2009
 
 [[education.courses]]
-  course = "BSc in Environment and Information"
+  course = "B.S. (Expected) in Environment and Information"
   institution = "Keio University, Japan"
   year = 2020
  
