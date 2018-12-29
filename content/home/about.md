@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Machine Learning",
-    "Recommender Systems,
+    "Recommender Systems",
     "Computer Vision",
     "Urban Computing"
   ]
