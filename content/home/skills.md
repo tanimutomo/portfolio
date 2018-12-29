@@ -29,19 +29,19 @@ weight = 7
   
 [[feature]]
   icon = "js-square"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Javascript"
   description = "50%"  
   
 [[feature]]
   icon = "linux"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Linux"
   description = "50%"
 
 [[feature]]
   icon = "adobe"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Adobe Ilustrator"
   description = "30%"
 
