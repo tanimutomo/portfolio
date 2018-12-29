@@ -36,3 +36,5 @@ weight = 5
 
 # Biography
 Tomoki Tanimura is a undergraduate student at Nakazawa Lab of Keio University. His research interests include applicalication of deeplearninig to urban environment. Recently, He and his advisers propose the image anonymization method using deeplearning algorithms for urban images.
+
+慶応義塾大学の学部3年で，現在中澤研究室(旧: 徳田研究室)に所属し，機械学習と画像処理技術を活用した都市課題解決を主なテーマとして研究している．最近は推薦システム等の勉強もしている．
