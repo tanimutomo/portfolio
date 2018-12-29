@@ -29,7 +29,6 @@ To solve the privacy problem and accelerate sharing of urban image data, we prop
 GANonymizer combines two neural networks: 1) a network which detects objects related to privacy such as persons and cars in an input image using object detection network, and 2) a network that removes the detected objects naturally as though they are not exist originally.
 Through our experiment of applying GANonymizer to urban video images, we confirmed that GANonymizer partially achieved natural removal of objects related to privacy.
 "
-
 abstract_short = "To solve the privacy problem and accelerate sharing of urban image data, we propose GANonymizer that automatically detects and removes objects related to privacy from the urban images.
 GANonymizer combines two neural networks: 1) a network which detects objects related to privacy such as persons and cars in an input image using object detection network, and 2) a network that removes the detected objects naturally as though they are not exist originally.
 Through our experiment of applying GANonymizer to urban video images, we confirmed that GANonymizer partially achieved natural removal of objects related to privacy.
