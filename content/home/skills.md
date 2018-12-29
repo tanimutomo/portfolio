@@ -25,7 +25,7 @@ weight = 10
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  description = "80%"
   
 [[feature]]
   icon = "js-square"
@@ -43,7 +43,7 @@ weight = 10
   icon = "adobe"
   icon_pack = "fab"
   name = "Adobe Ilustrator"
-  description = "30%"
+  description = "40%"
 
 [[feature]]
   icon = "file-excel"
