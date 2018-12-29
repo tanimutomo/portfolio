@@ -1,9 +1,9 @@
 +++
 # Experience widget.
 widget = "experience"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Work Experience"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -19,27 +19,27 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Student Assistant"
+  company = "Keio University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Kanagawa, Japan"
+  date_start = "2018-04-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = """Assist the Basic IT classes."""
+# Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+# * Analysing
+#  * Modelling
+#  * Deploying
+#  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Team Leader & Advertisement Leader"
+  company = "Toshin High school (Ayase)"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Tokyo, Japan"
+  date_start = "2016-04-01"
+  date_end = "2017-12-31"
+  description = """Planed some proposals for advertisement and improving KPI and did parent-teacher conference."""
 
 +++
