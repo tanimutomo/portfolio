@@ -35,4 +35,4 @@ weight = 5
 +++
 
 # Biography
-Tomoki Tanimura is a undergraduate student at Nakazawa Lab of Keio University. His research interests include applicalication of deeplearninig to urban environment. Recently, He and his advisers propose the image anonymization method for urban images using deeplearning algorithms.
+Tomoki Tanimura is a undergraduate student at Nakazawa Lab of Keio University. His research interests include applicalication of deeplearninig to urban environment. Recently, He and his advisers propose the image anonymization method using deeplearning algorithms for urban images.
