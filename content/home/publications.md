@@ -9,7 +9,7 @@ title = "Publications"
 subtitle = "Domestic Conference"
 
 # Order that this section will appear in.
-weight = 20
+weight = 8
 
 # Number of publications to list.
 count = 10

@@ -10,7 +10,7 @@ title = "Publications"
 subtitle = "International Conference"
 
 # Order that this section will appear in.
-weight = 10
+weight = 7
 
 # List format.
 #   0 = Simple
