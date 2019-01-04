@@ -42,7 +42,7 @@ projects = []
 tags = ["行列分解", "都市理解", "地理情報", "確率モデル"]
 
 # Links (optional).
-# url_pdf = "https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=191009&item_no=1"
+url_pdf = "http://db-event.jpn.org/deim2018/data/papers/371.pdf"
 # url_preprint = ""
 # url_code = "https://github.com/tanimutomo/ganonymizer"
 # url_dataset = "#"
