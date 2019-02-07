@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Machine Learning",
-    "Recommender Systems",
+    "Deep Learning",
+    "Graph Neural Network",
     "Computer Vision",
     "Urban Computing"
   ]
@@ -35,6 +35,6 @@ weight = 5
 +++
 
 # Biography
-Tomoki Tanimura is a undergraduate student at Nakazawa Lab of Keio University. His research interests include applicalication of deeplearninig to urban environment. Recently, He and his advisers propose the image anonymization method using deeplearning algorithms for urban images.
+Tomoki Tanimura is a undergraduate student at Nakazawa Lab of Keio University. His research interests include applicalication of deeplearninig to urban environment. Recently, He and his advisers have proposed the image anonymization method using deeplearning algorithms for urban system development. He is also Deep Learning JP Seminar Member (Matsuo Lab, U-Tokyo).
 
-慶応義塾大学の学部3年で，中澤研究室(旧: 徳田研究室)に所属し，機械学習と画像処理技術を活用した都市課題解決を主なテーマとして研究している．最近は推薦システムに興味を持ち勉強している．
+慶応義塾大学の学部3年で，中澤研究室(旧: 徳田研究室)に所属し，主に深層学習や画像処理を活用した都市課題解決を主なテーマとして研究している．東京大学松尾研究室が主に運営しているDeep Learning JPのセミナーメンバーとしても活動している．
