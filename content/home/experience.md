@@ -20,7 +20,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Internship"
-  company = "Wantedly, Inc"
+  company = "Wantedly, Inc."
   company_url = "https://wantedlyinc.com/ja"
   location = "Tokyo, Japan"
   date_start = "2019-02-12"
