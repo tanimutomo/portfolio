@@ -25,30 +25,66 @@ weight = 20
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "80%"
-  
-[[feature]]
-  icon = "js-square"
+  description = "Proficient"
+
+ [[feature]]
+  icon = "terminal"
   icon_pack = "fab"
-  name = "Javascript"
-  description = "50%"  
-  
+  name = "UNIX"
+  description = "Proficient"
+ 
 [[feature]]
-  icon = "linux"
+  icon = "git"
   icon_pack = "fab"
-  name = "Linux"
-  description = "50%"
+  name = "Git"
+  description = "Proficient"
 
 [[feature]]
-  icon = "adobe"
+  icon = "file-code"
   icon_pack = "fab"
-  name = "Adobe Ilustrator"
-  description = "40%"
+  name = "Latex"
+  description = "Proficient"
 
 [[feature]]
   icon = "file-excel"
   icon_pack = "fas"
   name = "Microsft office"
-  description = "80%"
+  description = "Proficient"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = "Basic"
+
+ [[feature]]
+  icon = "database"
+  icon_pack = "fab"
+  name = "PostgreSQL"
+  description = "Basic"
+ 
+[[feature]]
+  icon = "js-square"
+  icon_pack = "fab"
+  name = "Javascript"
+  description = "Basic"  
+  
+[[feature]]
+  icon = "html5"
+  icon_pack = "fab"
+  name = "HTML"
+  description = "Basic"  
+  
+[[feature]]
+  icon = "css3-alt"
+  icon_pack = "fab"
+  name = "CSS"
+  description = "Basic"  
+  
+[[feature]]
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Adobe Ilustrator"
+  description = "Basic"
 
 +++
