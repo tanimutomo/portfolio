@@ -42,7 +42,7 @@ projects = []
 tags = ["Privacy Protection", "Urban Image and Video", "Annonymization", "DeepLearning"]
 
 # Links (optional).
-# url_pdf = "https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=191009&item_no=1"
+url_pdf = "https://www.ht.sfc.keio.ac.jp/~tanimu/papers/ganonymizer_urbiot2018.pdf"
 # url_preprint = ""
 url_code = "https://github.com/tanimutomo/ganonymizer"
 # url_dataset = "#"
