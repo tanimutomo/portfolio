@@ -1,6 +1,6 @@
 +++
 title = "CityFlow: Supporting Spatial-Temporal Edge Computing for Urban Machine Learning Applications"
-date = 2018-11-01T00:00:00
+date = 2018-11-20T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

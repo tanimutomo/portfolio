@@ -1,6 +1,6 @@
 +++
 title = "CityFlow: 超分散エッジ環境における機械学習システム実現のための知的都市開発環境"
-date = 2018-08-24T00:00:00
+date = 2018-08-31T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

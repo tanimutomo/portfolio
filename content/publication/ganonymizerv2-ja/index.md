@@ -1,6 +1,6 @@
 +++
 title = "GANonymizerV2: 物体の影領域を考慮した都市画像の匿名化手法"
-date = 2018-08-24T00:00:00
+date = 2019-07-29T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
