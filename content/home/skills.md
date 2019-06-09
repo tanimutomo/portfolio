@@ -27,6 +27,12 @@ weight = 20
   name = "Python"
   description = "Proficient"
 
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Pytorch"
+  description = "Proficient"
+
  [[feature]]
   icon = "terminal"
   icon_pack = "fab"
@@ -46,6 +52,12 @@ weight = 20
   description = "Proficient"
 
 [[feature]]
+  icon = "file-code"
+  icon_pack = "fab"
+  name = "Latex"
+  description = "Proficient"
+
+[[feature]]
   icon = "file-excel"
   icon_pack = "fas"
   name = "Microsft office"
@@ -55,6 +67,18 @@ weight = 20
   icon = "docker"
   icon_pack = "fab"
   name = "Docker"
+  description = "Basic"
+
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "C"
+  description = "Basic"
+
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "C++"
   description = "Basic"
 
  [[feature]]
