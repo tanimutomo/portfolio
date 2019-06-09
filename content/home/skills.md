@@ -28,13 +28,25 @@ weight = 20
   description = "Proficient"
 
 [[feature]]
-  icon = ""
-  icon_pack = ""
-  name = "Pytorch"
+  icon = "python"
+  icon_pack = "fab"
+  name = "PyTorch"
+  description = "Proficient"
+
+[[feature]]
+  icon = "image"
+  icon_pack = "fab"
+  name = "OpenCV"
+  description = "Proficient"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "scikit learn"
   description = "Proficient"
 
  [[feature]]
-  icon = "terminal"
+  icon = "code"
   icon_pack = "fab"
   name = "UNIX"
   description = "Proficient"
@@ -43,12 +55,6 @@ weight = 20
   icon = "git"
   icon_pack = "fab"
   name = "Git"
-  description = "Proficient"
-
-[[feature]]
-  icon = "file-code"
-  icon_pack = "fab"
-  name = "Latex"
   description = "Proficient"
 
 [[feature]]
@@ -70,14 +76,14 @@ weight = 20
   description = "Basic"
 
 [[feature]]
-  icon = ""
-  icon_pack = ""
+  icon = "code"
+  icon_pack = "fab"
   name = "C"
   description = "Basic"
 
 [[feature]]
-  icon = ""
-  icon_pack = ""
+  icon = "code"
+  icon_pack = "fab"
   name = "C++"
   description = "Basic"
 
