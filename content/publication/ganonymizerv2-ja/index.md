@@ -24,7 +24,7 @@ publication_short = "MIRU2019"
 # Abstract and optional shortened version.
 abstract = "本研究では，都市画像からプライバシ物体を消去し，画像の共有・利用性を高める手法GANonymizerV2を提案する．提案手法では，セマンティックセグメンテーションなどを用いプライバシ物体の領域をその影を含めて推定し，同領域における背後の風景を再構成する．都市画像データセットに対して提案手法の有効性を検証し，プライバシ物体とその影を除去した結果を示す．"
 
-abstract = "都市画像からプライバシに関する物体を影を含めて，自動で除去するGANonymizerV2を提案"
+abstract_short = "都市画像からプライバシに関する物体を影を含めて，自動で除去するGANonymizerV2を提案"
 
 # Is this a selected publication? (true/false)
 selected = false
