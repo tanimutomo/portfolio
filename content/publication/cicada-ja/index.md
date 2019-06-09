@@ -1,6 +1,6 @@
 +++
 title = "CiCADA: 継続的なドメイン適応のための条件付き敵対的学習"
-date = 2019-07-29T00:00:00
+date = 2019-05-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
