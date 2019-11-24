@@ -57,13 +57,13 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Keio University", url = "https://www.keio.ac.jp/en/" }, {name = "Nakazawa Lab (Old: Tokuda Lab)", url = "https://www.ht.sfc.keio.ac.jp/"} ]
+  organizations = [ { name = "Keio University", url = "https://www.keio.ac.jp/en/" }, {name = "Jin Nakazawa Lab", url = "https://www.jn.sfc.keio.ac.jp/"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "kyoto_lunch.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "tanimu@ht.sfc.keio.ac.jp"
+  email = "tanimutomo@gmail.com"
   address = ""
 # office_hours = """
 #  Monday 10:00 to 13:00<br>

@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Deep Learning",
-    "Graph Neural Network",
     "Computer Vision",
-    "Urban Computing"
+    "Adversarial Examples",
+    "Representation Learning",
+    "Data Anonymization"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,6 +35,6 @@ weight = 5
 +++
 
 # Biography
-Tomoki Tanimura is a undergraduate student at Nakazawa Lab of Keio University. His research interests include applicalication of deeplearninig to urban environment. Recently, He and his advisers have proposed the image anonymization method using deeplearning algorithms for urban system development. He is also cvpaper.challenge member and Deep Learning JP Seminar Member (Matsuo Lab, U-Tokyo).
+Tomoki Tanimura is an undergraduate student at Jin Nakazawa Lab of Keio University, SFC. His research interests are Adversarial Examples and Robust Learning in Computer Vision. He is also a research member of cvpaper.challenge.
 
-慶応義塾大学の学部4年で，中澤研究室(旧: 徳田研究室)に所属し，主に深層学習や画像処理を活用した都市課題解決を主なテーマとして研究している．cvpaper.challengeのメンバー，東京大学松尾研究室が主に運営しているDeep Learning JPのセミナーメンバーとしても活動している．
+慶応義塾大学SFCの学部4年で，中澤研究室に所属し，画像処理分野に研究の主軸を置いており，近年はAdversarial ExamplesやRobust Learningに関する研究を行なっている．また，cvpaper.challengeの研究メンバーとしても活動している．
