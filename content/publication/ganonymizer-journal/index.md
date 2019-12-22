@@ -1,6 +1,6 @@
 +++
 title = "GANonymizer: Image Anonymization Method Using Obejct Detection and Generative Adversarial Network"
-date = 2018-08-31T00:00:00
+date = 2019-10-31T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
