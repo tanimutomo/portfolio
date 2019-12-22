@@ -18,7 +18,7 @@ authors = ["Tomoki Tanimura", "Makoto Kawano", "Takuro Yonezawa", "Jin Nakazawa"
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "3rd EAI International Conference on IoT in Urban Space"
+publication = "EAI International Conference on IoT in Urban Space"
 publication_short = "UrbIoT2018"
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = ["Privacy Protection", "Urban Image and Video", "Annonymization", "DeepLearning"]
 
 # Links (optional).
-url_pdf = "https://www.ht.sfc.keio.ac.jp/~tanimu/papers/ganonymizer_urbiot2018.pdf"
+url_pdf = "https://link.springer.com/chapter/10.1007/978-3-030-28925-6_10"
 # url_preprint = ""
 url_code = "https://github.com/tanimutomo/ganonymizer"
 # url_dataset = "#"
