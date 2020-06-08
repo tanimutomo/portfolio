@@ -28,75 +28,51 @@ weight = 20
   description = "Proficient"
 
 [[feature]]
-  icon = "python"
+  icon = "file-code"
   icon_pack = "fab"
-  name = "PyTorch"
-  description = "Proficient"
-
-[[feature]]
-  icon = "image"
-  icon_pack = "fab"
-  name = "OpenCV"
-  description = "Proficient"
-
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "scikit learn"
-  description = "Proficient"
-
- [[feature]]
-  icon = "code"
-  icon_pack = "fab"
-  name = "UNIX"
-  description = "Proficient"
- 
-[[feature]]
-  icon = "git"
-  icon_pack = "fab"
-  name = "Git"
+  name = "Go"
   description = "Proficient"
 
 [[feature]]
   icon = "file-code"
   icon_pack = "fab"
-  name = "Latex"
+  name = "Ruby"
+  description = "Basic"
+
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fab"
+  name = "LaTex"
   description = "Proficient"
-
-[[feature]]
-  icon = "file-excel"
-  icon_pack = "fas"
-  name = "Microsft office"
-  description = "Proficient"
-
-[[feature]]
-  icon = "docker"
-  icon_pack = "fab"
-  name = "Docker"
-  description = "Basic"
-
-[[feature]]
-  icon = "code"
-  icon_pack = "fab"
-  name = "C"
-  description = "Basic"
-
-[[feature]]
-  icon = "code"
-  icon_pack = "fab"
-  name = "C++"
-  description = "Basic"
 
  [[feature]]
   icon = "database"
   icon_pack = "fab"
+  name = "MySQL"
+  description = "Proficient"
+ 
+ [[feature]]
+  icon = "database"
+  icon_pack = "fab"
   name = "PostgreSQL"
-  description = "Basic"
+  description = "Proficient"
  
 [[feature]]
   icon = "js-square"
   icon_pack = "fab"
   name = "Javascript"
+  description = "Basic"  
+  
+[[feature]]
+  icon = "js-square"
+  icon_pack = "fab"
+  name = "Typescript"
+  description = "Basic"  
+  
+[[feature]]
+  icon = "react"
+  icon_pack = "fab"
+  name = "React"
   description = "Basic"  
   
 [[feature]]
@@ -111,10 +87,82 @@ weight = 20
   name = "CSS"
   description = "Basic"  
   
+<!-- [[feature]]
+  icon = "file-excel"
+  icon_pack = "fas"
+  name = "Microsft office"
+  description = "Proficient" -->
+
 [[feature]]
+  icon = "code"
+  icon_pack = "fab"
+  name = "C"
+  description = "Basic"
+
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fab"
+  name = "Terraform"
+  description = "Basic"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = "Basic"
+
+[[feature]]
+  icon = "aws"
+  icon_pack = "fab"
+  name = "AWS"
+  description = "Basic"
+
+[[feature]]
+  icon = "google"
+  icon_pack = "fab"
+  name = "GCP"
+  description = "Basic"
+
+<!-- [[feature]]
+  icon = "code"
+  icon_pack = "fab"
+  name = "C++"
+  description = "Basic" -->
+
+<!-- [[feature]]
   icon = "adobe"
   icon_pack = "fab"
   name = "Adobe Ilustrator"
-  description = "Basic"
+  description = "Basic" -->
+
+<!-- [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "PyTorch"
+  description = "Proficient" -->
+
+<!-- [[feature]]
+  icon = "image"
+  icon_pack = "fab"
+  name = "OpenCV"
+  description = "Proficient" -->
+
+<!-- [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "scikit learn"
+  description = "Proficient" -->
+
+ <!-- [[feature]]
+  icon = "code"
+  icon_pack = "fab"
+  name = "UNIX"
+  description = "Proficient" -->
+ 
+<!-- [[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  description = "Proficient" -->
 
 +++
