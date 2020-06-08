@@ -23,7 +23,7 @@ date_format = "January 2006"
   company = "ispec"
   company_url = "https://ispec.tech/"
   location = "Tokyo, Japan"
-  date_start = "2019-05-01"
+  date_start = "2020-05-01"
   date_end = ""
   description = """Engineer"""
 
@@ -51,7 +51,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Kanagawa, Japan"
   date_start = "2018-04-01"
-  date_end = ""
+  date_end = "2019-07-31"
   description = """Assist the Basic IT classes."""
 
 [[experience]]
