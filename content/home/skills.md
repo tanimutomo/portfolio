@@ -87,12 +87,6 @@ weight = 20
   name = "CSS"
   description = "Basic"  
   
-<!-- [[feature]]
-  icon = "file-excel"
-  icon_pack = "fas"
-  name = "Microsft office"
-  description = "Proficient" -->
-
 [[feature]]
   icon = "code"
   icon_pack = "fab"
@@ -123,46 +117,52 @@ weight = 20
   name = "GCP"
   description = "Basic"
 
-<!-- [[feature]]
-  icon = "code"
-  icon_pack = "fab"
-  name = "C++"
-  description = "Basic" -->
-
-<!-- [[feature]]
-  icon = "adobe"
-  icon_pack = "fab"
-  name = "Adobe Ilustrator"
-  description = "Basic" -->
-
-<!-- [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "PyTorch"
-  description = "Proficient" -->
-
-<!-- [[feature]]
-  icon = "image"
-  icon_pack = "fab"
-  name = "OpenCV"
-  description = "Proficient" -->
-
-<!-- [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "scikit learn"
-  description = "Proficient" -->
-
- <!-- [[feature]]
-  icon = "code"
-  icon_pack = "fab"
-  name = "UNIX"
-  description = "Proficient" -->
- 
-<!-- [[feature]]
-  icon = "git"
-  icon_pack = "fab"
-  name = "Git"
-  description = "Proficient" -->
+# [[feature]]
+#   icon = "file-excel"
+#   icon_pack = "fas"
+#   name = "Microsft office"
+#   description = "Proficient"
+# 
+# [[feature]]
+#   icon = "code"
+#   icon_pack = "fab"
+#   name = "C++"
+#   description = "Basic"
+# 
+# [[feature]]
+#   icon = "adobe"
+#   icon_pack = "fab"
+#   name = "Adobe Ilustrator"
+#   description = "Basic"
+# 
+# [[feature]]
+#   icon = "python"
+#   icon_pack = "fab"
+#   name = "PyTorch"
+#   description = "Proficient"
+# 
+# [[feature]]
+#   icon = "image"
+#   icon_pack = "fab"
+#   name = "OpenCV"
+#   description = "Proficient"
+# 
+# [[feature]]
+#   icon = "python"
+#   icon_pack = "fab"
+#   name = "scikit learn"
+#   description = "Proficient"
+# 
+#  [[feature]]
+#   icon = "code"
+#   icon_pack = "fab"
+#   name = "UNIX"
+#   description = "Proficient"
+#  
+# [[feature]]
+#   icon = "git"
+#   icon_pack = "fab"
+#   name = "Git"
+#   description = "Proficient"
 
 +++
