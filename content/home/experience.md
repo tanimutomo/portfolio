@@ -29,6 +29,15 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Internship"
+  company = "Wantedly, Inc."
+  company_url = "https://wantedlyinc.com/ja"
+  location = "Tokyo, Japan"
+  date_start = "2020-10-02"
+  date_end = "2020-09-14"
+  description = """Backend Engineer"""
+
+[[experience]]
+  title = "Internship"
   company = "bitkey"
   company_url = "https://bitkey.co.jp/"
   location = "Tokyo, Japan"
